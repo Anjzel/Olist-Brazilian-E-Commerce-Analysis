@@ -60,20 +60,28 @@ The dataset contains **11 interrelated CSV files** covering:
 
 ## 📈 Power BI Dashboard
 
+
+**Data Model**
+![Data Model](assets/Data Modelling.png)
+
 The Power BI report consists of 3 pages:
 
 **Page 1 — Sales Performance**
+![Sales Performance](assets/Sales Performance.png)
+
 - Revenue trend (2016–2018)
 - Top 10 and Bottom 10 product categories by revenue
 - H1 vs H2 orders by category (2017 seasonality)
 
 **Page 2 — Customer Behavior**
+![Customer Behavior](assets/Customer Behavior.png)
 - Average review score trend
 - Customer distribution by state
 - Review score by order status
 - Delivery time vs customer satisfaction
 
 **Page 3 — Payment Patterns**
+![Payment Patterns](assets/Payment Patterns.png)
 - Payment volume by type (donut chart)
 - Credit card installment behavior
 - Monthly credit card volume vs running total (2017)
